@@ -18,7 +18,7 @@ The Price Prediction Game is a decentralized game where users can place bets on 
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `https://github.com/smit1271/Price-Prediction-Game`
 2. Navigate to the project directory
 3. Install the dependencies:
    - For the Solidity smart contract: Install the necessary packages and dependencies.
